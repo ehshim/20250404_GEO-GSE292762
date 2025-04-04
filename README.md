@@ -1,4 +1,6 @@
-# 20250404_GEO-GSE292762
+# GEO GSE292762 : Primary senescence and Secondary senescence scRNA-seq Analysis
+🔗 [View dataset on GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE292762)
+
 R scripts enabling the main steps of the single-cell RNA-Seq analysis of primary senescence and secondary senescence data.
 
 
