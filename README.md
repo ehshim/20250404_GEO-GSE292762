@@ -4,10 +4,10 @@
 R scripts enabling the main steps of the single-cell RNA-Seq analysis of primary senescence and secondary senescence data.
 
 
-## QU vs IR: Primary Senescence scRNA-seq Integration
+## QU vs IR: Primary senescence scRNA-seq Integration
 This repository contains Seurat R scripts for integrating and analyzing QU and IR samples from primary senescence single-cell RNA-seq experiments.
 
-## QCMT vs SCMT: Secondary Senescence scRNA-seq Integration
+## QCMT vs SCMT: Secondary senescence scRNA-seq Integration
 This repository contains Seurat R scripts for integrating and analyzing QCMT and SCMT samples from secondary senescence single-cell RNA-seq experiments.
 
 ### Workflow Overview
